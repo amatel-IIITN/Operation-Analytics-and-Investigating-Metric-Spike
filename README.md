@@ -33,27 +33,27 @@ org: The Organization of the actor
 ds: The date in the format yyyy/mm/dd (stored as text).
 
 
-Tasks:
+### Tasks:
 
-Jobs Reviewed Over Time:
+1. Jobs Reviewed Over Time:
 
 
 Objective: Calculate the number of jobs reviewed per hour for each day in November 2020.
 
 
-Throughput Analysis:
+2. Throughput Analysis:
 
 
 Objective: Calculate the 7-day rolling average of throughput (number of events per second).
 
 
-Language Share Analysis:
+3. Language Share Analysis:
 
 
 Objective: Calculate the percentage share of each language in the last 30 days.
 
 
-Duplicate Rows Detection:
+4. Duplicate Rows Detection:
 
 
 Objective: Identify duplicate rows in the data.
@@ -72,37 +72,37 @@ events: Contains one row per event, where an event is an action that a user has 
 email_events: Contains events specific to the sending of emails.
 
 
-Tasks:
+### Tasks:
 
-Weekly User Engagement:
+1. Weekly User Engagement:
 
 
 Objective: Measure the activeness of users on a weekly basis.
 
 
 
-User Growth Analysis:
+2. User Growth Analysis:
 
 
 Objective: Analyze the growth of users over time for a product.
 
 
 
-Weekly Retention Analysis:
+3. Weekly Retention Analysis:
 
 
 Objective: Analyze the retention of users on a weekly basis after signing up for a product.
 
 
 
-Weekly Engagement Per Device:
+4. Weekly Engagement Per Device:
 
 
 Objective: Measure the activeness of users on a weekly basis per device.
 
 
 
-Email Engagement Analysis:
+5. Email Engagement Analysis:
 
 
 Objective: Analyze how users are engaging with the email service.
